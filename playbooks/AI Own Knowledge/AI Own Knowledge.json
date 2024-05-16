@@ -1,0 +1,12 @@
+{
+  "name": "6b527e5f-bd21-4462-9f86-02b9d87e78fc",
+  "displayName": "AI Own Knowledge",
+  "goal": "Answer the question based on your knowledge",
+  "steps": [ {
+    "text": "Answer to the best of your ability"
+  }, {
+    "text": "Summarize the user's request and ask them to confirm that you understood correctly."
+  }, {
+    "text": "If necessary, seek clarifying details."
+  } ]
+}

@@ -1,0 +1,17 @@
+{
+  "defaultLanguageCode": "en",
+  "timeZone": "America/Los_Angeles",
+  "enableLogging": true,
+  "projectNumber": 860052986063,
+  "enableStackdriverLogging": true,
+  "advancedSettings": {
+    "loggingSettings": {
+      "enableStackdriverLogging": true,
+      "enableInteractionLogging": true
+    }
+  },
+  "genAppBuilderSettings": {
+    "engine": "projects/860052986063/locations/global/collections/default_collection/engines/3e5cdce3-aa5d-4572-93f5-2ee43595b0c9"
+  },
+  "startPlaybook": "AI Assistant"
+}
